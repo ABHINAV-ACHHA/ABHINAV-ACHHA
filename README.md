@@ -30,10 +30,13 @@ Here are some ideas to get you started:
 
 
 
-### Languages and Tools:
+### Languages :
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/c.svg"/>](C)
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/cplusplus.svg"/>](C++)
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg"/>](Python)
+<br></br>
+
+###Tools:
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png"/>](Alacitty)
 [<img align="left" alt="Nvim" width="26px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png"/>](Nvim)
 [<img align="left" alt="Kubuntu" width="26px" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4"/>](Kubuntu)
