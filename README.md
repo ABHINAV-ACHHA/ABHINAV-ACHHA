@@ -38,10 +38,12 @@ Here are some ideas to get you started:
 
 
 
-### Tools:
+<!-- ### Tools:
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png"/>](Alacitty)
 [<img align="left" alt="Nvim" width="26px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png"/>](Nvim)
 [<img align="left" alt="Kubuntu" width="26px" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4"/>](Kubuntu)
 
-<br /><br />
+<br /><br /> -->
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
