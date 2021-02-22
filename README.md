@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg"/>](Python)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png"/>](Alacitty)
 [<img align="left" alt="Nvim" width="26px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png"/>](Nvim)
-[<img align="left" alt="Kubuntu" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstore.kde.org%2Fp%2F1102075%2F&psig=AOvVaw0Smt7ffBEtVyd-eituvUoG&ust=1614063667999000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCB5PL1_O4CFQAAAAAdAAAAABAD"/>](Kubuntu)
+[<img align="left" alt="Kubuntu" width="26px" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4"/>](Kubuntu)
 
 <br /><br />
 
