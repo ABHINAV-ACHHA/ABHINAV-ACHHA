@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/c.svg"/>](C)
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/cplusplus.svg"/>](C++)
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg"/>](Python)
-<br></br>
+<br /><br />
 
 ###Tools:
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png"/>](Alacitty)
