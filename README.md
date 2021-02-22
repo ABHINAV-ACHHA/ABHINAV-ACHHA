@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg"/>](Python)
 <br /><br />
 
+
+
 ###Tools:
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png"/>](Alacitty)
 [<img align="left" alt="Nvim" width="26px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png"/>](Nvim)
