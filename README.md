@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 ### Ways to reach me:
 [<img align="left" alt="ABHINAV-ACHHA | Telegram" width="22px" src="https://i.imgur.com/6BBu5v3.png" />](https://www.telegram.me/ABH_i_NAV)
 [<img align="left" alt="ABHINAV-ACHHA | Instagram" width="22px" src="https://i.imgur.com/zTSjHxi.png" />](https://www.instagram.com/_.abhi_nav.__)
-[<img align="left" alt="ABHINAV-ACHHA | Twitter" width="22px" src="https://imgur.com/gallery/LS08Auh" />](https://www.twitter.com/AbhinavAchha2)
+[<img align="left" alt="ABHINAV-ACHHA | Twitter" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png" />](https://www.twitter.com/AbhinavAchha2)
 
