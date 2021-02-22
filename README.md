@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 > <!-https://img.shields.io/static/v1?label=<OS>&message=<LINUX>&color=<blueviolet>-->
 ### ![Counts](https://komarev.com/ghpvc/?username=ABHINAV-ACHHA&color=red&style=flat-square&label=Profile+Visits)
 
+### Ways to reach me:
+[<img align="left" alt="ABHINAV-ACHHA | Telegram" width="22px" src="https://i.imgur.com/6BBu5v3.png" />](https://www.telegram.me/ABH-i-NAV)
+[<img align="left" alt="ABHINAV-ACHHA | Instagram" width="22px" src="https://i.imgur.com/zTSjHxi.png" />](https://www.instagram.com/_.abhi_nav.__)
+
