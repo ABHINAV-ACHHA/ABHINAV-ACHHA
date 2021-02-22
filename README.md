@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHINAV-ACHHA&count_private=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAV-ACHHA&langs_count=8)](https://github.com/ABHINAV-ACHHA/github-readme-stats)
+
+https://img.shields.io/static/v1?label=<OS>&message=<LINUX>&color=<blueviolet>
