@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/c.svg"/>](C)
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/cplusplus.svg"/>](C++)
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg"/>](Python)
-[<img align="left" alt="Terminal" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Falacritty%2Falacritty%2Fmaster%2Fextra%2Flogo%2Fcompat%2Falacritty-term%252Bscanlines.png&imgrefurl=https%3A%2F%2Fgithub.com%2Falacritty%2Falacritty&tbnid=sldzGoU7O5N-5M&vet=12ahUKEwiHx9ys9PzuAhWWVisKHSOjAHIQMygSegUIARDQAQ..i&docid=-II1pWzhwwBjxM&w=512&h=512&q=alacritty%20termnal%20image&client=ubuntu&ved=2ahUKEwiHx9ys9PzuAhWWVisKHSOjAHIQMygSegUIARDQAQ"/>](Alacitty)
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png"/>](Alacitty)
 [<img align="left" alt="Nvim" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.hostonnet.com%2Fneovim&psig=AOvVaw2O-8oxITlOvb2UpCW4Tv0y&ust=1614063489480000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDJ5cf1_O4CFQAAAAAdAAAAABAD"/>](Nvim)
 [<img align="left" alt="Kubuntu" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstore.kde.org%2Fp%2F1102075%2F&psig=AOvVaw0Smt7ffBEtVyd-eituvUoG&ust=1614063667999000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCB5PL1_O4CFQAAAAAdAAAAABAD"/>](Kubuntu)
 
