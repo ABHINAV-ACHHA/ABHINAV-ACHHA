@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=Neovim&logoColor=white&color=f71d05)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-zsh&logoColor=white&color=f71d05)
 ![](https://img.shields.io/badge/DE-KDE-informational?style=flat&logo=KDE&logoColor=white&color=f71d05)
+![](https://img.shields.io/badge/Terminal-Alacritty-informational?style=flat&logo=Windows-Terminal&logoColor=white&color=f71d05)
 
 
 
