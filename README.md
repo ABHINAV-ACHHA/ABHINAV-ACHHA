@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/c.svg"/>](C)
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/cplusplus.svg"/>](C++)
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg"/>](Python)
-[<img align="left" alt="bash" width="26px" src="https://simpleicons.org/?q=bash"/>](Bash)
+[<img align="left" alt="bash" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gnubash.svg"/>](Bash)
 <br></br>
 
 ### Tools :
