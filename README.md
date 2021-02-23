@@ -35,15 +35,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg"/>](Python)
 <br></br>
 
-
-
-<!-- ### Tools:
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png"/>](Alacitty)
-[<img align="left" alt="Nvim" width="26px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png"/>](Nvim)
-[<img align="left" alt="Kubuntu" width="26px" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4"/>](Kubuntu)
-
-<br /><br /> -->
-
+### Tools :
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=f71d05)
 ![](https://img.shields.io/badge/NeoVim?style=flat&logo=neovim&logoColor=white&color=f71d05)
 
