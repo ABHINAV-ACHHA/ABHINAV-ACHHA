@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 <br /><br /> -->
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=f71d05)
-![](https://simpleicons.org/?q=neovim?style=flat&logo=neovim&logoColor=white&color=f71d05)
+![](https://img.shields.io/badge/NeoVim?style=flat&logo=neovim&logoColor=white&color=f71d05)
 
