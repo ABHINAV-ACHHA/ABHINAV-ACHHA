@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <br></br>
 
 
+---
 
 ### Languages :
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/c.svg"/>](C)
@@ -35,6 +36,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg"/>](Python)
 [<img align="left" alt="bash" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gnubash.svg"/>](Bash)
 <br></br>
+
+
+---
 
 ### Tools :
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=f71d05)
