@@ -13,7 +13,7 @@ I expect to Fill this within a short time!!! 🙂
 ---
 
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHINAV-ACHHA&count_private=true&show_icon=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAV-ACHHA&langs_count=8)](https://github.com/ABHINAV-ACHHA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAV-ACHHA&langs_count=8)]((https://github.com/anuraghazra/github-readme-stats))
 
 ### ![Counts](https://komarev.com/ghpvc/?username=ABHINAV-ACHHA&color=red&style=flat-square&label=Profile+Visits)
 
