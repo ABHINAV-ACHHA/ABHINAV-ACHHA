@@ -33,9 +33,13 @@ Here are some ideas to get you started:
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/c.svg"/>](C)
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/cplusplus.svg"/>](C++)
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg"/>](Python)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-zsh&logoColor=white&color=f71d05)
 <br></br>
 
 ### Tools :
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=f71d05)
 ![](https://img.shields.io/badge/NeoVim?style=flat&logo=neovim&logoColor=white&color=f71d05)
+
+
+
 
