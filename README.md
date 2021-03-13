@@ -45,6 +45,7 @@ I expect to Fill this within a short time!!! 🙂
 ![](https://img.shields.io/badge/DE-KDE-informational?style=flat&logo=KDE&logoColor=white&color=f71d05)
 ![](https://img.shields.io/badge/Terminal-Alacritty-informational?style=flat&logo=Windows-Terminal&logoColor=white&color=f71d05)
 ![](https://img.shields.io/badge/Device-Android-informational?style=flat&logo=Android&logoColor=white&color=f71d05)
+![](https://img.shields.io/github/repo-size/AbhinavAchha.svg?label=Repo%20size&style=flat-square)
 
 
 
