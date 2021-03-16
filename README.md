@@ -12,16 +12,16 @@ I expect to Fill this within a short time!!! 🙂
 
 ---
 
-[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinavAchha&count_private=true&theme=midnight-purple)](https://www.github.com/AbhinavAchha?tab=repositories)
-![My Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavAchha&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&count_private=true)
+[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavachha&count_private=true&theme=midnight-purple)](https://www.github.com/AbhinavAchha?tab=repositories)
+![My Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavachha&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&count_private=true)
 
-### ![Counts](https://komarev.com/ghpvc/?username=AbhinavAchha&color=red&style=flat-square&label=Profile+Visits)
+### ![Counts](https://komarev.com/ghpvc/?username=abhinavachha&color=red&style=flat-square&label=Profile+Visits)
 
 ### Ways to reach me:
-[<img align="left" alt="AbhinavAchha | Telegram" width="22px" src="https://i.imgur.com/6BBu5v3.png" />](https://www.telegram.me/ABH_i_NAV)
-[<img align="left" alt="AbhinavAchha | Instagram" width="22px" src="https://i.imgur.com/zTSjHxi.png" />](https://www.instagram.com/_.abhi_nav.__)
-[<img align="left" alt="AbhinavAchha | Twitter" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png" />](https://www.twitter.com/AbhinavAchha2)
-[<img align="left" alt="AbhinavAchha | Linkedin" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png" />](https://www.linkedin.com/in/abhinav-achha)
+[<img align="left" alt="abhinavachha | Telegram" width="22px" src="https://i.imgur.com/6BBu5v3.png" />](https://www.telegram.me/ABH_i_NAV)
+[<img align="left" alt="abhinavachha | Instagram" width="22px" src="https://i.imgur.com/zTSjHxi.png" />](https://www.instagram.com/_.abhi_nav.__)
+[<img align="left" alt="abhinavachha | Twitter" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png" />](https://www.twitter.com/AbhinavAchha2)
+[<img align="left" alt="abhinavachha | Linkedin" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png" />](https://www.linkedin.com/in/abhinav-achha)
 <br></br>
 
 
