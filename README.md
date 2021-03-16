@@ -28,10 +28,10 @@ I expect to Fill this within a short time!!! 🙂
 ---
 
 ### Languages :
-[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/c.svg"/>](C)
-[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/cplusplus.svg"/>](C++)
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg"/>](Python)
 [<img align="left" alt="bash" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gnubash.svg"/>](Bash)
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/python.svg"/>](Python)
+[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/cplusplus.svg"/>](C++)
+[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/c.svg"/>](C)
 <br></br>
 
 
@@ -45,7 +45,6 @@ I expect to Fill this within a short time!!! 🙂
 ![](https://img.shields.io/badge/DE-KDE-informational?style=flat&logo=KDE&logoColor=white&color=f71d05)
 ![](https://img.shields.io/badge/Terminal-Alacritty-informational?style=flat&logo=Windows-Terminal&logoColor=white&color=f71d05)
 ![](https://img.shields.io/badge/Device-Android-informational?style=flat&logo=Android&logoColor=white&color=f71d05)
-![](https://img.shields.io/github/repo-size/AbhinavAchha.svg?label=Repo%20size&style=flat-square)
 
 
 
